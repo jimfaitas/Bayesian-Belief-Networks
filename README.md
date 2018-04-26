@@ -1,2 +1,2 @@
-# Bayesian-Belief-Networks
+# Bayesian Belief Networks
 Notes on Bayesian Belief Networks
